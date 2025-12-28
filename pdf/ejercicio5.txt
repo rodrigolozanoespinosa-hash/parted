@@ -1,0 +1,3 @@
+Ejercicio 5: Visualizar un cuadrado hueco de tamaño a elección del usuario. Por ejemplo, uno de 5x5:
+
+
