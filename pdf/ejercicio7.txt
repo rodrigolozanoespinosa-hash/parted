@@ -1,0 +1,14 @@
+Ejercicio 7: Mostrar la siguiente secuencia hasta un número N:
+
+1
+2
+22
+3
+33
+333
+…
+N
+NN
+NNN
+NNNN
+N … N (N veces)
